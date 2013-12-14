@@ -1,16 +1,20 @@
 # humanstxt.org/
-# The humans responsible & technology colophon
+# The humans responsible & technology colophon, such a neat word, ain't it? :D
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <jonathan lai> -- <keyboard tapper, many a taps> -- <@jonlai>
 
 # THANKS
 
-    <name>
+    <Mucho gente del mundo, the people of the world>
+    <The FOSS, free and open source software community>
+      <As a corrolary, all those neat opensource.com licenses (yes, you heard me--GPL, BSD, MIT, Apache), all them bickering folks.  Just thanks for churning out neat and high quality software! :D >
+    <On a personal note, the @GA_SF coding program, family, friends and God>
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    jQuery, Modernizr
- 
+    HTML5, CSS3, jQuery, PureCss (a la Yahoo YUI project), Chrome Developer tools, Git, Vim, SublimeText2. 
+    May add to or reduce this subset later.
+
+    github.com/agsdot/homepage_purecss
